@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mukesm\\Desktop\\GameStore App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B327FEFC-6FAB-0CDE-A48E-7585C48A7758}|GameStore.Frontend\\GameStore.Frontend.csproj|c:\\users\\mukesm\\desktop\\gamestore app\\gamestore.frontend\\clients\\gamesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327FEFC-6FAB-0CDE-A48E-7585C48A7758}|GameStore.Frontend\\GameStore.Frontend.csproj|solutionrelative:gamestore.frontend\\clients\\gamesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327FEFC-6FAB-0CDE-A48E-7585C48A7758}|GameStore.Frontend\\GameStore.Frontend.csproj|c:\\users\\mukesm\\desktop\\gamestore app\\gamestore.frontend\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B327FEFC-6FAB-0CDE-A48E-7585C48A7758}|GameStore.Frontend\\GameStore.Frontend.csproj|solutionrelative:gamestore.frontend\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327FEFC-6FAB-0CDE-A48E-7585C48A7758}|GameStore.Frontend\\GameStore.Frontend.csproj|c:\\users\\mukesm\\desktop\\gamestore app\\gamestore.frontend\\components\\pages\\deletegame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B327FEFC-6FAB-0CDE-A48E-7585C48A7758}|GameStore.Frontend\\GameStore.Frontend.csproj|solutionrelative:gamestore.frontend\\components\\pages\\deletegame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327FEFC-6FAB-0CDE-A48E-7585C48A7758}|GameStore.Frontend\\GameStore.Frontend.csproj|c:\\users\\mukesm\\desktop\\gamestore app\\gamestore.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327FEFC-6FAB-0CDE-A48E-7585C48A7758}|GameStore.Frontend\\GameStore.Frontend.csproj|solutionrelative:gamestore.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteGame.razor",
+              "DocumentMoniker": "C:\\Users\\mukesm\\Desktop\\GameStore App\\GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
+              "RelativeDocumentMoniker": "GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
+              "ToolTip": "C:\\Users\\mukesm\\Desktop\\GameStore App\\GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
+              "RelativeToolTip": "GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T07:17:24.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\mukesm\\Desktop\\GameStore App\\GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\mukesm\\Desktop\\GameStore App\\GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T07:16:18.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesClient.cs",
+              "DocumentMoniker": "C:\\Users\\mukesm\\Desktop\\GameStore App\\GameStore.Frontend\\Clients\\GamesClient.cs",
+              "RelativeDocumentMoniker": "GameStore.Frontend\\Clients\\GamesClient.cs",
+              "ToolTip": "C:\\Users\\mukesm\\Desktop\\GameStore App\\GameStore.Frontend\\Clients\\GamesClient.cs",
+              "RelativeToolTip": "GameStore.Frontend\\Clients\\GamesClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T07:15:53.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mukesm\\Desktop\\GameStore App\\GameStore.Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "GameStore.Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\mukesm\\Desktop\\GameStore App\\GameStore.Frontend\\Program.cs",
+              "RelativeToolTip": "GameStore.Frontend\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T07:13:56.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
